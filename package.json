@@ -1,0 +1,12 @@
+{
+  "name": "CapacitorSPMSample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/cli": "^7.4.2",
+    "@capacitor/core": "^7.4.2",
+    "@capacitor/ios": "^7.4.2",
+    "@capacitor-firebase/analytics": "^7.3.0"
+  }
+}
